@@ -2,7 +2,12 @@
 
 Hello, GitHub Comunity! 👋
 
-I'm Josué Gotay, a student at Brigham Young University-Idaho interested in developing high quality software applications using languages like JavaScript and C# utilizing powerful environments such as: Node.js, Vite, and Next.js to better manage and scale my web applications. Welcome to my GitHub profile!
+I'm a student at Brigham Young University–Idaho and an aspiring software developer passionate about building high-quality applications. I enjoy working with **JavaScript** and **C#**, and leveraging powerful frameworks and environments such as **Node.js, Vite, and Next.js** to design scalable and efficient web solutions.
+
+Technology has always been a part of my life, and I thrive on solving problems, learning new tools, and collaborating on projects that make a real impact.  
+
+Welcome to my GitHub profile — here you'll find my projects, experiments, and continuous journey of growth in software development.
+
 
 ## About Me
 
