@@ -19,6 +19,8 @@ I'm Josué Gotay, a student at Brigham Young University-Idaho interested in deve
 - Here is my LinkedIn profile: [www.linkedin.com/in/josué-gotay-005001269]
 - Here is my Discord profile: Zandhox
 
+![Josué's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotayjosue&show_icons=true&theme=radical)
+
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
